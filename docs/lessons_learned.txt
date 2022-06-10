@@ -1,0 +1,16 @@
+identifier
+    - uniquely identify a record.
+code
+    - code has underlying, pre-defined meaning when decoded.
+identifying code
+    - a code that uniquely identifies a record.
+serial identifier (id)
+    - identifier by serial number that gets automatically generated when new record is entered.
+    - useful if record does not have other unique identifier but each record is required to be uniquely identifiable.
+    - can be used as a surrogate key.
+number
+
+id vs code:
+    - id only uniquely identifies a record without ability to directly translated into something meaningful to the reader.
+    - code can be decoded into something meaningful to the reader.
+    
